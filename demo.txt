@@ -13,3 +13,7 @@ Welcome
 
 Good Morning
 Bye
+
+Good Night
+Good Morning
+Good Evening
